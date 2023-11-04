@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Rubik";
+    src: url("../font/static/Rubik-Regular.ttf");
+}
+
+* {
+    font-family: Rubik,sans-serif;
+}
+.scrolling::-webkit-scrollbar {
+    display: none;
+  }
+
+div.card {
+    /* top: 0px;
+    bottom: 0; */
+    width: 360px;
+    height: 600px;
+    /* position: fixed; */
+    /* display: flex; */
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+div.cart-title{
+    font-size: 35px;
+    font-weight: 700;
+    position: relative;
+}
+
+span.total-price-cart{
+    float: right;
+} 
+div.scrolling {
+    height: 600px;
+    overflow-y: visible;
+    overflow-x: hidden;
+}
