@@ -1,5 +1,5 @@
 # Python_Intern_Assignment
-Hi interviewer
+Hi interviewer,
 I want to say something about the application:
 
   1. Why did I deploy the application on Pythonanywhere ? I have met some troubles with DigitalOcean registration. They declined my VISA card so I can't register a free account to deploy the application.     Importantly, the deadline is approaching so I will find the solutions later.
