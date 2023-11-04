@@ -11,7 +11,7 @@ Open cmd
 1. git clone https://github.com/m4hnameistri
 2. cd golden_sneaker
 3. python -m venv venv  # Create a virtual environment
-   venv/bin/activate  # Activate the virtual environment (Windows)
+   venv/Scripts/activate  # Activate the virtual environment (Windows)
    pip install -r requirements.txt
 4. #This project using MySQL: so you need to create schema in MySQL first.
    python manage.py migrate
